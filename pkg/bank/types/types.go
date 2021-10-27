@@ -25,7 +25,6 @@ type Card struct {
 	Color      string
 	Name       string
 	Active     bool
-	MinBalance Money
 }
 
 type Payment struct {
